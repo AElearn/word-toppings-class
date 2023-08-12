@@ -58,12 +58,12 @@
 	{
 		"words": ["bright", "brightly", "brighten", "brightness"],
 		"questions": [
-			"Ann’s eyes _____ when she saw her boyfriend enter the classroom.",
+			"Ann’s eyes _____ every time she sees his boyfriend enter the classroom.",
 			"Albert is an excellent college student with a _____ future.",
 			"I think you need to adjust the _____ of your computer monitor because it looks a bit dark.",
 			"The walls of this new house were painted _____."
 		],
-		"answer": ["brightened", "bright", "brightness", "brightly"]
+		"answer": ["brighten", "bright", "brightness", "brightly"]
 	},
 	{
 		"words": ["hopeful", "hopefully", "hopefulness", "hopeless", "hopelessly"],
