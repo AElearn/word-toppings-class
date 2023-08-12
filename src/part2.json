@@ -1,0 +1,237 @@
+[
+	{
+		"words": ["easy", "easily", "uneasy", "uneasily", "easiness", "uneasiness"],
+		"questions": [
+			"Mastering English doesn't come ______ to students in Taiwan.",
+			"Mary had an ______ feeling that something terrible was going to happen.",
+			"John truly enjoyed great ______ and comfort during his stay in Paris.",
+			"Sam decided to take the ______ option and give his children whatever they wanted for Christmas."
+		],
+		"answer": ["easily", "uneasy", "easiness", "easy"]
+	},
+	{
+		"words": [
+			"possible",
+			"impossible",
+			"possibly",
+			"impossibly",
+			"possibility"
+		],
+		"questions": [
+			"The mirror is broken into many pieces, so it'll be _____ to put it back together again.",
+			"We have run out of money. Selling the car is just one _____ that is open to us.",
+			"The doctors did everything they _____ could to save my uncle’s life.",
+			"Nurses at the hospital are forced to work _____ long hours."
+		],
+		"answer": ["impossible", "possibility", "possibly", "impossibly"]
+	},
+	{
+		"words": ["friendly", "unfriendly", "unfriend", "friendless", "friendship"],
+		"questions": [
+			"The restaurant is great, and the waiters or waitresses are very _____.",
+			"It is never a good thing to feel alone and _____ wherever you are.",
+			"Jenny formed a close _____ with Lily at college.",
+			"Hank decided to _____ his roommate on Facebook after they had a fight."
+		],
+		"answer": ["friendly", "friendless", "friendship", "unfriend"]
+	},
+	{
+		"words": ["poet", "poetic", "poetical", "poetically", "poetry"],
+		"questions": [
+			"Sandy was very interested in writing and reading _____ in her free time.",
+			"As we all know, William Shakespeare is Britain's most famous _____.",
+			"Your description of the sun setting over the mountain was a very _____ piece of writing.",
+			"My boyfriend started to talk _____ about how wonderful it was to build a family life together in the future."
+		],
+		"answer": ["poetry", "poet", "poetic", "poetically"]
+	},
+	{
+		"words": ["art", "artist", "artistic", "artistically", "artistry"],
+		"questions": [
+			"This _____ is very good at capturing light with a camera and creating an image.",
+			"The Christmas decorations inside the beautiful house were very _____.",
+			"The food has to be _____ arranged on the plate at the French restaurant.",
+			"The visitors showed an appreciation for the beauty and _____ of the painting, Mona Lisa, by Leonardo da Vinci."
+		],
+		"answer": ["artist", "artistic", "artistically", "artistry"]
+	},
+	{
+		"words": ["bright", "brightly", "brighten", "brightness"],
+		"questions": [
+			"Ann’s eyes _____ when she saw her boyfriend enter the classroom.",
+			"Albert is an excellent college student with a _____ future.",
+			"I think you need to adjust the _____ of your computer monitor because it looks a bit dark.",
+			"The walls of this new house were painted _____."
+		],
+		"answer": ["brightened", "bright", "brightness", "brightly"]
+	},
+	{
+		"words": ["hopeful", "hopefully", "hopefulness", "hopeless", "hopelessly"],
+		"questions": [
+			"After losing her job for some time, Jenny started to feel sad and _____ about her life.",
+			"It’s getting dark; _____, we can arrive at the hotel as soon as possible.",
+			"Ted thinks getting a degree in computer science encourages him a lot, and has given him more _____ in his future work.",
+			"I am _____ that my sister will recover from the accident soon."
+		],
+		"answer": ["hopeless", "hopefully", "hopefulness", "hopeful"]
+	},
+	{
+		"words": [
+			"suit",
+			"suitable",
+			"suitably",
+			"unsuitable",
+			"unsuitably",
+			"suitability"
+		],
+		"questions": [
+			"This movie is _____ for children because it has too much violence.",
+			"Maggy decided to buy that blue jacket because it _____ her very well.",
+			"According to Joe’s recent behavior, there are some doubts about his _____ for the new position.",
+			"Wearing a pair of jeans, Leo is afraid he does not dress _____ for the job interview."
+		],
+		"answer": ["unsuitable", "suit", "suitability", "suitably"]
+	},
+	{
+		"words": [
+			"different",
+			"differently",
+			"difference",
+			"indifferent",
+			"indifferently"
+		],
+		"questions": [
+			"Can you tell the _____ between these two cellphones?",
+			"Kent was very _____ to his parents, and it really hurt their feelings.",
+			"People should not treat others _____ based on their appearances and incomes.",
+			"It’s important that we need to learn to listen to _____ voices in society."
+		],
+		"answer": ["difference", "indifferent", "differently", "different"]
+	},
+	{
+		"words": ["luck", "lucky", "luckily", "luckless", "unlucky", "unluckily"],
+		"questions": [
+			"You are in _____. There is only one chocolate cake left at the café.",
+			"_____, no one got hurt in the bus accident.",
+			"Nick didn’t get a promotion after he finished the project, _____.",
+			"Brad was _____ because he won a lottery last month."
+		],
+		"answer": ["luck", "luckily", "unluckily", "lucky"]
+	},
+	{
+		"words": [
+			"excite",
+			"exciting",
+			"excited",
+			"excitingly",
+			"excitedly",
+			"excitement"
+		],
+		"questions": [
+			"The basketball players were very _____ after they won the game.",
+			"The students were jumping up and down with _____ after the final exam was over.",
+			"My father talked _____ about how he fixed my computer.",
+			"The working holiday programs in Japan really _____ me."
+		],
+		"answer": ["excited", "excitement", "excitedly", "excite"]
+	},
+	{
+		"words": [
+			"act",
+			"active",
+			"actively",
+			"inactive",
+			"inactively",
+			"actor",
+			"actress",
+			"action"
+		],
+		"questions": [
+			"The government is not planning any immediate _____ to deal with air pollution.",
+			"The koalas are _____ during the daytime. They can sleep for up to 20 hours a day.",
+			"Tom Cruise is the most popular all-time _____ in America.",
+			"Mr. Jones still has an _____ role in running the family business."
+		],
+		"answer": ["action", "inactive", "actors", "active"]
+	},
+	{
+		"words": ["honest", "honestly", "honesty", "dishonest", "dishonestly"],
+		"questions": [
+			"I have known George for a long time that his _____ is never in question.",
+			"To my surprise, Luke was _____ about his age and college degree when he applied for this job.",
+			"_____, Vicky wishes she had more time to prepare for the exam.",
+			"Linda is a nice woman who is trying to make an _____ living."
+		],
+		"answer": ["honesty", "dishonest", "Honestly", "honest"]
+	},
+	{
+		"words": ["politic", "political", "politically", "politics", "politician"],
+		"questions": [
+			"Everything in this organization is so _____ that the workers never know who they can trust.",
+			"Sarah studied _____ at a university in Canada.",
+			"A _____ in the US generally joins the Democratic or the Republican Party as the first step.",
+			"As a senator, Mrs. Lee was very _____ active."
+		],
+		"answer": ["political", "politics", "politician", "politically"]
+	},
+	{
+		"words": [
+			"imagine",
+			"imagination",
+			"imaginative",
+			"imaginatively",
+			"imaginary"
+		],
+		"questions": [
+			"Can you _____ life without cellphones?",
+			"The city mayor suggested some very _____ ways of improving the traffic conditions.",
+			"The popular movie “UP” is set in an _____ world.",
+			"With a little _____, you can come up with a good idea to solve the problem."
+		],
+		"answer": ["imagine", "imaginative", "imaginary", "imagination"]
+	},
+	{
+		"words": ["bore", "boring", "boringly", "bored", "boredom"],
+		"questions": [
+			"Sean was _____ with doing the same work every day, so he decided to quit his job.",
+			"My sister Jane used to _____ everyone in the family through the meal with details of her college life.",
+			"The history class was so _____ that it put many students into sleep.",
+			"Some children tend to watch too much TV simply out of _____ on weekends."
+		],
+		"answer": ["bored", "bore", "boring", "boredom"]
+	},
+	{
+		"words": [
+			"legal",
+			"legally",
+			"illegal",
+			"illegally",
+			"legalize",
+			"legalization"
+		],
+		"questions": [
+			"In Taiwan, people whose age is 18 or more are _____ allowed to get a driver’s license.",
+			"Throwing garbage in this area is considered _____, or you will get a fine.",
+			"The government is considering whether to _____ the night fishing in some rivers.",
+			"The _____ of same-sex marriage was a significant milestone in the fight for equality."
+		],
+		"answer": ["legally", "illegal", "legalize", "legalization"]
+	},
+	{
+		"words": [
+			"child",
+			"children",
+			"childish",
+			"childishly",
+			"childless",
+			"childhood"
+		],
+		"questions": [
+			"The playground was filled with laughter as _____ played and enjoyed their carefree afternoon.",
+			"Mr. and Mrs. Miller are _____, so they are planning to adopt a boy or a girl.",
+			"Noah had an unhappy _____ because his parents were divorced.",
+			"Emma’s _____ behavior often made it difficult for others to take her seriously."
+		],
+		"answer": ["children", "childless", "childhood", "childish"]
+	}
+]

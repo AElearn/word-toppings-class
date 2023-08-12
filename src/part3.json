@@ -1,0 +1,562 @@
+[
+	{
+		"reading": "Modern technology has undeniably transformed our lives, making tasks easier and more accessible. With just a few taps on our smartphones, we can easily connect with loved ones, access a wealth of information, and navigate the world effortlessly. The ease with which we can accomplish daily activities has brought a sense of convenience and efficiency. However, this convenience can also create a sense of uneasiness. Our reliance on technology has made us uneasy about our privacy and security. The constant connectivity and exposure to virtual environments have led to an uneasiness about our ability to disconnect and find solace in solitude. Despite the uneasiness it brings, the easiness provided by modern technology continue to shape and redefine the world we live in.",
+		"questions": [
+			{
+				"question": "What impact has modern technology had on our daily tasks?",
+				"choices": [
+					"It has made them more difficult.",
+					"It has made them easier and more accessible.",
+					"It has made them less efficient."
+				],
+				"answer": 1
+			},
+			{
+				"question": "What feeling does convenience in using technology often create?",
+				"choices": ["Easiness", "Uneasiness", "Anxiety"],
+				"answer": 0
+			},
+			{
+				"question": "What aspect of modern technology makes us uneasy?",
+				"choices": [
+					"Its ability to connect with loved ones easily.",
+					"Its influence on privacy and security.",
+					"Its convenience in navigating the world."
+				],
+				"answer": 1
+			}
+		]
+	},
+	{
+		"reading": "Taiwan offers a plethora of possibilities for travelers, making tourism an exciting and accessible experience. From its breathtaking natural landscapes to its vibrant cultural heritage, Taiwan presents an array of attractions that seem almost impossible to resist. The country's diverse geography allows for a wide range of activities, such as hiking in majestic mountain ranges, exploring bustling night markets, or soaking in hot springs. The possibility of immersing oneself in rich traditions and savoring delicious street food is a major draw for visitors. With efficient transportation networks and friendly locals, traveling around Taiwan becomes not only possible but also remarkably enjoyable. The country's commitment to sustainable tourism further enhances the experience, ensuring that future generations can continue to explore the impossibly charming destinations Taiwan has to offer.",
+		"questions": [
+			{
+				"question": "What does Taiwan offer to travelers?",
+				"choices": [
+					"Limited possibilities",
+					"A plethora of possibilities",
+					"No possibilities at all"
+				],
+				"answer": 1
+			},
+			{
+				"question": "What is a major draw for visitors to Taiwan?",
+				"choices": [
+					"The absence of cultural heritage",
+					"The impossibility of finding attractions",
+					"Immersing oneself in rich traditions and savoring street food"
+				],
+				"answer": 2
+			},
+			{
+				"question": "What makes traveling around Taiwan enjoyable?",
+				"choices": [
+					"Inefficient transportation networks",
+					"Unfriendly locals",
+					"Efficient transportation networks and friendly locals"
+				],
+				"answer": 2
+			}
+		]
+	},
+	{
+		"reading": "Pet dogs are friendly companions that bring joy and happiness to our lives. They are always there to greet us with wagging tails and offer their unconditional love. Dogs are the epitome of friendship, as they can sense and respond to our emotions. It is important to remember that dogs should never be left unfriended or friendless. They thrive on social interaction and need companionship to lead fulfilling lives. As responsible dog owners, we should create a friendly environment for our four-legged friends, ensuring they never feel unfriendly or isolated. Dogs are a constant reminder that true friendship knows no bounds.",
+		"questions": [
+			{
+				"question": "What do pet dogs bring to our lives?",
+				"choices": ["Sadness", "Joy and companionship", "Fear"],
+				"answer": 1
+			},
+			{
+				"question": "Why are dogs considered the epitome of friendship?",
+				"choices": [
+					"They can sense and respond to their owners' emotions.",
+					"They are always quiet and reserved.",
+					"They require minimal interaction."
+				],
+				"answer": 0
+			},
+			{
+				"question": "Why is it important to provide companionship to pet dogs?",
+				"choices": [
+					"It is not necessary; they can be left alone.",
+					"Companionship has no effect on dogs' well-being.",
+					"They need it to lead fulfilling lives."
+				],
+				"answer": 2
+			}
+		]
+	},
+	{
+		"reading": "Reading literature is like embarking on a poetic journey where words come alive, painting vivid images in our minds. It allows us to explore the depths of the human experience through the lens of a poet's imagination. Literature, in all its forms, has the power to transport us to different worlds and evoke a myriad of emotions. The poet's mastery of language and the use of poetic devices create a symphony of words that resonate deeply within us. Through literature, we can immerse ourselves in the beauty of the written word, experiencing life's triumphs and tribulations poetically. It is through the magic of poetry that literature captures our hearts and minds, leaving an indelible mark on our souls.",
+		"questions": [
+			{
+				"question": "What is reading literature compared to in the passage?",
+				"choices": [
+					"A mathematical equation",
+					"A scientific experiment",
+					"A poetic journey"
+				],
+				"answer": 2
+			},
+			{
+				"question": "What is the power of literature mentioned in the passage?",
+				"choices": [
+					"It can transport us to different worlds.",
+					"It can make us laugh uncontrollably.",
+					"It can cure physical ailments."
+				],
+				"answer": 0
+			},
+			{
+				"question": "How does the poet's use of language impact us?",
+				"choices": [
+					"It leads to confusion and frustration.",
+					"It creates a symphony of words.",
+					"It has no effect on our reading experience."
+				],
+				"answer": 1
+			}
+		]
+	},
+	{
+		"reading": "French cooking is a beautiful blend of art and taste. The chefs are true artists in the kitchen, creating dishes that are not only delicious but visually appealing. Each dish is crafted artistically, using fresh ingredients and precise techniques. French cuisine is a form of art that delights our senses and leaves us in awe. The attention to detail and dedication to perfection make French cooking a masterpiece. It is no wonder that it continues to inspire and impress food enthusiasts worldwide. French cooking is an expression of artistry and a treat for both the eyes and the taste buds.",
+		"questions": [
+			{
+				"question": "What is French cooking compared to in the passage?",
+				"choices": [
+					"A blend of art and taste",
+					"A scientific method",
+					"A physical workout"
+				],
+				"answer": 0
+			},
+			{
+				"question": "What makes French cuisine visually appealing?",
+				"choices": [
+					"The use of fresh ingredients",
+					"The precise techniques used by chefs",
+					"The inclusion of colorful decorations"
+				],
+				"answer": 1
+			},
+			{
+				"question": "How is French cooking described in the passage?",
+				"choices": [
+					"A disappointing experience",
+					"A scientific discovery",
+					"A masterpiece"
+				],
+				"answer": 2
+			}
+		]
+	},
+	{
+		"reading": "Higher education plays a pivotal role in brightening the future of individuals and societies alike. It serves as a beacon of knowledge, illuminating minds and opening doors to limitless opportunities. Through higher education, individuals acquire the tools and skills necessary to navigate the complexities of the world and make informed decisions. It provides a platform for personal growth and intellectual exploration, nurturing bright minds that contribute to innovation and progress. Higher education brings brightness to communities by fostering critical thinking, creativity, and problem-solving abilities. The brightness of knowledge and expertise gained through higher education not only empowers individuals but also enhances the overall brightness and advancement of society as a whole.",
+		"questions": [
+			{
+				"question": "What role does higher education play in individuals' and societies' futures?",
+				"choices": [
+					"It has no impact on their future.",
+					"It brightens their future.",
+					"It limits their opportunities."
+				],
+				"answer": 1
+			},
+			{
+				"question": "What does higher education provide individuals with?",
+				"choices": [
+					"Tools and skills to navigate the world",
+					"Access to unlimited wealth",
+					"Physical strength and endurance"
+				],
+				"answer": 0
+			},
+			{
+				"question": "How does higher education benefit communities?",
+				"choices": [
+					"By limiting critical thinking",
+					"By fostering creativity and problem-solving",
+					"By decreasing societal advancement"
+				],
+				"answer": 1
+			}
+		]
+	},
+	{
+		"reading": "Cellphones have revolutionized the way we connect and communicate, instilling a sense of hopefulness in our increasingly interconnected world. With just a few taps on a screen, we can reach loved ones across continents, access information at our fingertips, and participate in global conversations. Cellphones have become powerful tools of empowerment, offering a sense of hope and possibility. However, if used irresponsibly, they can also lead to feelings of hopelessness and disconnection. It is essential to strike a balance, utilizing cellphones as instruments of productivity and connectivity while remaining mindful of their potential pitfalls. With proper usage, cellphones hold the promise of connecting us, fostering hope, and propelling us towards a future where communication knows no boundaries.",
+		"questions": [
+			{
+				"question": "How have cellphones revolutionized communication?",
+				"choices": [
+					"They have instilled a sense of hopefulness.",
+					"They have made communication impossible.",
+					"They have disconnected people."
+				],
+				"answer": 0
+			},
+			{
+				"question": "What is the potential consequence of using cellphones irresponsibly?",
+				"choices": [
+					"A sense of hope and possibility",
+					"Increased productivity and connectivity",
+					"Feelings of hopelessness and disconnection"
+				],
+				"answer": 2
+			},
+			{
+				"question": "How should cellphones be utilized, according to the passage?",
+				"choices": [
+					"They should be used without any caution.",
+					"They should be used as instruments of productivity and connectivity.",
+					"They should be avoided altogether."
+				],
+				"answer": 1
+			}
+		]
+	},
+	{
+		"reading": "When choosing hotels, it is crucial to consider their suitability to ensure a pleasant and comfortable stay. A suitable hotel should align with your specific needs and preferences. Factors such as location, amenities, and price play a significant role in determining suitability. It is important to assess if the hotel's location suits your itinerary and provides convenience for your planned activities. Additionally, amenities such as Wi-Fi, parking, and fitness facilities should be suitably available based on your requirements. Finally, the price should be suitably within your budget, providing value for the services offered. By carefully assessing these factors, you can ensure that the chosen hotel is suitably tailored to enhance your travel experience and meet your expectations.",
+		"questions": [
+			{
+				"question": "What is the importance of considering suitability when choosing hotels?",
+				"choices": [
+					"It has no impact on the stay.",
+					"It ensures a pleasant and comfortable experience.",
+					"It increases the price of the hotel."
+				],
+				"answer": 1
+			},
+			{
+				"question": "Which factor mentioned in the passage helps determine the suitability of a hotel?",
+				"choices": [
+					"The number of available restaurants nearby",
+					"The availability of Wi-Fi, parking, and fitness facilities",
+					"The color scheme of the hotel's interior"
+				],
+				"answer": 1
+			},
+			{
+				"question": "What role does the price play in choosing a suitable hotel?",
+				"choices": [
+					"It doesn't matter as long as the location is good.",
+					"It should always be the highest possible.",
+					"It should be suitably within your budget."
+				],
+				"answer": 2
+			}
+		]
+	},
+	{
+		"reading": "Environmental problems require us to approach them differently, as they have a profound impact on our planet and future generations. It is crucial to recognize the difference we can make through individual and collective actions. We must not remain indifferent to the challenges we face, but rather act decisively and responsibly. Indifferently ignoring environmental issues will only exacerbate the problems we already face. It is our duty to engage in sustainable practices, conserve resources, reduce waste, and promote eco-friendly initiatives. By embracing a different mindset and taking action, we can make a positive difference and create a greener, more sustainable world for ourselves and future generations to come.",
+		"questions": [
+			{
+				"question": "Why is it important to approach environmental problems differently?",
+				"choices": [
+					"They have a profound impact on our planet and future generations.",
+					"They are easy to solve without any action.",
+					"They have little impact on our planet."
+				],
+				"answer": 0
+			},
+			{
+				"question": "What happens if we remain indifferent to environmental issues?",
+				"choices": [
+					"The problems will disappear on their own.",
+					"The problems will become worse.",
+					"The problems will solve themselves through natural processes."
+				],
+				"answer": 1
+			},
+			{
+				"question": "What is our duty regarding environmental issues?",
+				"choices": [
+					"To ignore them indifferently.",
+					"To expect others to take responsibility for solving them.",
+					"To engage in sustainable practices and promote eco-friendly initiatives."
+				],
+				"answer": 2
+			}
+		]
+	},
+	{
+		"reading": "Superstition in America is deeply ingrained in the cultural fabric, with beliefs that revolve around luck and the forces that shape our fortunes. Many individuals consider themselves lucky or unlucky based on various superstitions. For example, finding a four-leaf clover is believed to bring good luck, while breaking a mirror is considered to be unlucky. The number thirteen is often associated with bad luck, leading some to avoid it whenever possible. Superstitious rituals, like tossing salt over the shoulder or avoiding walking under ladders, are performed in hopes of avoiding misfortune. Whether one believes in these superstitions or not, they play a significant role in American culture, adding an element of mystery and wonder to everyday life.",
+		"questions": [
+			{
+				"question": "What do many individuals consider themselves based on superstitions?",
+				"choices": ["Lucky or unlucky", "Unlucky", "Indifferent"],
+				"answer": 0
+			},
+			{
+				"question": "What is considered to bring good luck according to the passage?",
+				"choices": [
+					"Breaking a mirror",
+					"Finding a four-leaf clover",
+					"Avoiding the number thirteen"
+				],
+				"answer": 1
+			},
+			{
+				"question": "Why do some individuals perform superstitious rituals?",
+				"choices": [
+					"To create mystery and wonder",
+					"To bring good luck",
+					"To avoid misfortune"
+				],
+				"answer": 2
+			}
+		]
+	},
+	{
+		"reading": "Studying abroad is an exhilarating experience that fills students with excitement from the moment they decide to embark on this journey. The prospect of immersing oneself in a new culture, meeting people from diverse backgrounds, and exploring unfamiliar landscapes is undeniably exciting. The excitement only intensifies as one excitedly prepares for departure, eagerly anticipating the adventures that lie ahead. Upon arrival, the thrilling encounter with the host country's traditions and way of life fuels a continuous sense of excitement and curiosity. Navigating through academic pursuits and daily life excitingly challenges individuals to adapt and grow. Ultimately, the blend of academic rigor and cultural exploration creates an environment where learning happens excitingly beyond the classroom, fostering memories and skills that last a lifetime.",
+		"questions": [
+			{
+				"question": "What is one of the reasons that studying abroad is considered exciting?",
+				"choices": [
+					"Meeting people from the same background",
+					"Exploring familiar landscapes",
+					"Immersing oneself in a new culture"
+				],
+				"answer": 2
+			},
+			{
+				"question": "How does the excitement intensify for students?",
+				"choices": [
+					"By staying in their home country",
+					"By avoiding unfamiliar traditions",
+					"By eagerly preparing for departure"
+				],
+				"answer": 2
+			},
+			{
+				"question": "How does studying abroad challenge individuals?",
+				"choices": [
+					"By isolating them from new experiences",
+					"By excitingly challenging them to adapt and grow",
+					"By causing them to lose interest in academics"
+				],
+				"answer": 1
+			}
+		]
+	},
+	{
+		"reading": "Making movies is an active and dynamic process that requires the collaborative efforts of actors, actresses, and filmmakers. From script development to filming and post-production, each stage involves a flurry of action. Actors and actresses bring characters to life through their performances, using their talent and skill to engage audiences emotionally. Behind the scenes, directors, producers, and crew members work actively to capture compelling scenes and craft captivating narratives. The magic of movies lies in the seamless blending of action, storytelling, and visual elements. Through their creativity and dedication, those involved in the movie-making process actively shape and transport viewers into imaginative worlds, leaving a lasting impact on the art of storytelling.",
+		"questions": [
+			{
+				"question": "What is the role of actors and actresses in creating movies?",
+				"choices": [
+					"Developing scripts and narratives",
+					"Capturing compelling scenes",
+					"Bringing characters to life through their performances"
+				],
+				"answer": 2
+			},
+			{
+				"question": "Who works behind the scenes in the movie-making process?",
+				"choices": [
+					"Viewers and audience members",
+					"Directors, producers, and crew members",
+					"Actors and actresses"
+				],
+				"answer": 1
+			},
+			{
+				"question": "What is the magic of movies attributed to, according to the passage?",
+				"choices": [
+					"The use of visual effects",
+					"The seamless blending of action, storytelling, and visual elements",
+					"The dedication of actors and actresses"
+				],
+				"answer": 1
+			}
+		]
+	},
+	{
+		"reading": "When students take exams, it's crucial for them to be honest. They should answer questions truthfully and not cheat or be dishonest. Honesty helps ensure a fair evaluation of their knowledge and abilities. It's important to remember that being dishonest, like cheating, is not the right thing to do. It's always better to be honest and show integrity. Students should value honesty and strive to maintain an environment of trust and respect during exams. By being honest, students demonstrate their commitment to ethical behavior and create a positive atmosphere for everyone involved in the examination process.",
+		"questions": [
+			{
+				"question": "Why is it crucial for students to be honest during exams?",
+				"choices": [
+					"It ensures a fair evaluation of their knowledge and abilities.",
+					"It helps them cheat successfully.",
+					"It allows them to avoid difficult questions."
+				],
+				"answer": 0
+			},
+			{
+				"question": "What is the right thing to do during exams, according to the passage?",
+				"choices": [
+					"Cheat and be dishonest.",
+					"Ignore difficult questions",
+					"Value honesty and show integrity."
+				],
+				"answer": 2
+			},
+			{
+				"question": "How does being honest during exams affect the atmosphere?",
+				"choices": [
+					"It creates a negative environment.",
+					"It promotes trust and respect.",
+					"It encourages cheating among other students."
+				],
+				"answer": 1
+			}
+		]
+	},
+	{
+		"reading": "Voting is an important political act that allows individuals to participate in shaping their government and society. When we vote, we have the opportunity to make our voices heard and express our opinions on various political matters. It is through the act of voting that we elect politicians who will represent our interests and make decisions on our behalf. By engaging in the political process, we contribute to the functioning of our democratic system. Voting gives us the power to influence the direction of our communities and ensure that our concerns are addressed. It is our civic duty to exercise our right to vote and actively participate in the political process for a better future.",
+		"questions": [
+			{
+				"question": "Why is voting important?",
+				"choices": [
+					"It promotes political indifference.",
+					"It guarantees personal gain and benefits.",
+					"It allows individuals to shape their government and society."
+				],
+				"answer": 2
+			},
+			{
+				"question": "What happens when we vote?",
+				"choices": [
+					"We elect politicians to represent our interests.",
+					"Our opinions are disregarded.",
+					"Our voices are silenced."
+				],
+				"answer": 0
+			},
+			{
+				"question": "What is our civic duty regarding voting?",
+				"choices": [
+					"To abstain from voting.",
+					"To exercise our right to vote and actively participate in the political process.",
+					"To remain indifferent to political matters."
+				],
+				"answer": 1
+			}
+		]
+	},
+	{
+		"reading": "Imagine having a time machine at your disposal, a device capable of transporting you through the vast realms of history. With its power, you could witness the rise and fall of civilizations, walk alongside ancient warriors, or marvel at the wonders of lost worlds. Your imagination would ignite as you step into different eras, allowing you to experience the sights, sounds, and even the scents of bygone times. In the hands of an imaginative explorer, the time machine becomes a gateway to endless possibilities, where creative minds can reshape the past, present, and future. It is through this imaginative lens that the time machine unravels the mysteries of history, allowing us to journey back and forth imaginatively, guided only by our curiosity and the realm of the imaginary.",
+		"questions": [
+			{
+				"question": "The time machine mentioned in the passage is capable of:",
+				"choices": [
+					"transforming history",
+					"transporting people through time",
+					"unraveling the mysteries of imagination"
+				],
+				"answer": 1
+			},
+			{
+				"question": "According to the passage, the time machine allows individuals to:",
+				"choices": [
+					"experience the sights, sounds, and scents of different eras",
+					"reshape the past, present, and future",
+					"ignite their curiosity"
+				],
+				"answer": 0
+			},
+			{
+				"question": "The word \"imaginative\" in the passage (line 5) is closest in meaning to:",
+				"choices": ["historical", "curious", "creative"],
+				"answer": 2
+			}
+		]
+	},
+	{
+		"reading": "Planning a trip can often seem like a tedious task that brings about feelings of boredom. However, with a little creativity and attention to detail, it doesn't have to be that way! Instead of approaching it as a mundane chore, you can infuse excitement into the planning process. Start by researching interesting and off-the-beaten-path destinations that pique your curiosity. Look for unique activities or attractions that align with your interests and passions. Embrace spontaneity by leaving room for unplanned adventures and unexpected discoveries. By thinking outside the box and incorporating imaginative elements into your trip, you can transform the planning phase into an enjoyable and exhilarating experience. So, don't let boredom take over—make your trip planning a thrilling adventure in itself!",
+		"questions": [
+			{
+				"question": "According to the passage, how can trip planning be made more exciting?",
+				"choices": [
+					"By being spontaneous and open to unplanned adventures.",
+					"By approaching it as a mundane chore.",
+					"By sticking to popular destinations."
+				],
+				"answer": 0
+			},
+			{
+				"question": "What should one do when researching for a trip?",
+				"choices": [
+					"Look for unique activities and attractions.",
+					"Avoid thinking outside the box.",
+					"Stick to well-known destinations."
+				],
+				"answer": 0
+			},
+			{
+				"question": "The main idea of the passage is:",
+				"choices": [
+					"Planning a trip is always a tedious and boring task.",
+					"The planning phase of a trip is unnecessary and can be skipped.",
+					"Creativity and attention to detail can make trip planning exciting."
+				],
+				"answer": 2
+			}
+		]
+	},
+	{
+		"reading": "Drinking and driving is a serious issue that carries legal consequences and poses significant risks to individuals and society. It is important to understand that operating a vehicle under the influence of alcohol is illegal and can result in severe penalties. Driving while impaired endangers not only the driver's life but also the lives of others on the road. To combat this problem, strict laws have been put in place to deter individuals from engaging in this dangerous behavior. It is crucial for society to raise awareness about the dangers of drinking and driving, promote responsible alcohol consumption, and support initiatives that advocate for the legalization and availability of alternative transportation options. By emphasizing the legal and ethical implications, we can work towards a safer and more responsible community.",
+		"questions": [
+			{
+				"question": "According to the passage, what are the consequences of drinking and driving?",
+				"choices": [
+					"Legal penalties and risks to individuals and society.",
+					"Increased awareness about responsible alcohol consumption.",
+					"Availability of alternative transportation options."
+				],
+				"answer": 0
+			},
+			{
+				"question": "Why are strict laws put in place for drinking and driving?",
+				"choices": [
+					"To promote responsible alcohol consumption.",
+					"To raise awareness about the dangers involved.",
+					"To deter individuals from engaging in dangerous behavior."
+				],
+				"answer": 2
+			},
+			{
+				"question": "What does the passage suggest as a solution to the problem of drinking and driving?",
+				"choices": [
+					"Legalize and make alcohol more readily available.",
+					"Advocate for alternative transportation options.",
+					"Increase the severity of legal consequences."
+				],
+				"answer": 1
+			}
+		]
+	},
+	{
+		"reading": "Home is where cherished memories are woven, a place that holds the essence of our childhood and the joy of growing up. It is where children find solace in the warmth of their parents' love and create playful memories that last a lifetime. The childlike spirit that lingers within the walls of a home reminds us to find delight in the simplest things, embracing the child within us. Home is a sanctuary where dreams are nurtured, laughter fills the air, and imaginations run wild. Whether childless or surrounded by the laughter of little ones, the embrace of home is a reminder of the childlike wonder that resides within our hearts, making it truly sweet indeed.",
+		"questions": [
+			{
+				"question": "What does home remind us to do?",
+				"choices": [
+					"Find delight in the simplest things.",
+					"Embrace the child within us.",
+					"Both A and B."
+				],
+				"answer": 2
+			},
+			{
+				"question": "What fills the air in a sanctuary of home?",
+				"choices": [
+					"Dreams being nurtured.",
+					"Laughter.",
+					"Imaginations running wild."
+				],
+				"answer": 1
+			},
+			{
+				"question": "According to the passage, what does the childlike spirit within a home represent?",
+				"choices": [
+					"Joy and playfulness.",
+					"Memories that last a lifetime.",
+					"Both A and B."
+				],
+				"answer": 2
+			}
+		]
+	}
+]

@@ -1,0 +1,135 @@
+{
+    "root": "Joy",
+    "words": [
+        {
+            "word": "Joyful",
+            "suffix": "ful"
+        },
+        {
+            "word": "Joyfully",
+            "suffix": "(i)ly"
+        },
+        {
+            "word": "Joyless",
+            "suffix": "less"
+        },
+        {
+            "word": "Joylessly",
+            "suffix": "(i)ly"
+        },
+        {
+            "word": "Joylessness",
+            "suffix": "ness"
+        },
+        {
+            "word": "Joyous",
+            "suffix": "ous"
+        },
+        {
+            "word": "Joyously",
+            "suffix": "(i)ly"
+        },
+        {
+            "word": "Joyousness",
+            "suffix": "ness"
+        }
+    ]
+},
+{
+    "root": "Expense",
+    "words": [
+        {
+            "word": "Expensive",
+            "suffix": "ive"
+        },
+        {
+            "word": "Expensively",
+            "suffix": "(i)ly"
+        }
+    ]
+},
+{
+    "root": "Pure",
+    "words": [
+        {
+            "word": "Pureness",
+            "suffix": "ness"
+        },
+        {
+            "word": "Purity",
+            "suffix": "(i)ty"
+        },
+        {
+            "word": "Purify",
+            "suffix": "ify"
+        }
+    ]
+},
+{
+    "word": "Dishonesty",
+    "prefix": "dis",
+    "suffix": "y"
+},
+{
+    "root": "Bake",
+    "words": [
+        {
+            "word": "Baker",
+            "suffix": "(e)r"
+        },
+        {
+            "word": "Bakery",
+            "suffix": "ery"
+        }
+    ]
+},
+{
+    "root": "Decide",
+    "words": [
+        {
+            "word": "Decided",
+            "suffix": "(e)d"
+        },
+        {
+            "word": "Decidedly",
+            "suffix": "(i)ly"
+        },
+        {
+            "word": "Decision",
+            "suffix": "sion"
+        },
+        {
+            "word": "Decider",
+            "suffix": "(e)r"
+        }
+    ]
+},
+{
+    "word": "Imaginable",
+    "suffix": "able"
+},
+{
+    "root": "Zoo",
+    "words": [
+        {
+            "word": "Zoology",
+            "suffix": "(o)logy"
+        },
+        {
+            "word": "Zoological",
+            "suffix": "ical"
+        },
+        {
+            "word": "Zoologist",
+            "suffix": "ist"
+        }
+    ]
+},
+{
+    "word": "Childishness",
+    "suffix": "ness"
+},
+{
+    "word": "Childlessness",
+    "suffix": "ness"
+},
