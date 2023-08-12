@@ -29,7 +29,6 @@ const MatchGame = (props) => {
 		}
 
 		setSelectedSnapshot(selectedOptions);
-		console.log(selectedSnapshot);
 
 		if (allCorrect) {
 			setShowNextStageButton(true);
