@@ -24,7 +24,7 @@ const App = () => {
   2. Part 2 game
   3. Part 3 game
   */
-	const [stage, setStage] = useState(1);
+	const [stage, setStage] = useState(3);
 
 	useEffect(() => {
 		document.title = "Word Sandwich";

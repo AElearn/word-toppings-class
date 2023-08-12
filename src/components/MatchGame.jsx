@@ -17,14 +17,23 @@ const MatchGame = (props) => {
 		}));
 	};
 
+	const [selectedSnapshot, setSelectedSnapshot] = useState({});
+
 	const onSubmit = () => {
 		const answers = matchInfo.answer;
+		let allCorrect = true;
 		for (let i = 0; i < answers.length; i++) {
 			if (answers[i] !== selectedOptions[i]) {
-				return;
+				allCorrect = false;
 			}
 		}
-		setShowNextStageButton(true);
+
+		setSelectedSnapshot(selectedOptions);
+		console.log(selectedSnapshot);
+
+		if (allCorrect) {
+			setShowNextStageButton(true);
+		}
 	};
 
 	return (
@@ -32,11 +41,15 @@ const MatchGame = (props) => {
 			<div className="text-center p-2 blue font-bold">
 				<h6>Please fill in the blanks with the following words.</h6>
 			</div>
-			<div className="text-left reading">
+			<div className="text-left p-2">
 				{matchInfo.questions.map((question, index) => {
 					return (
 						<div key={index}>
 							<span>
+								{Object.keys(selectedSnapshot).length > 0 &&
+									(selectedSnapshot[index] === matchInfo.answer[index]
+										? "✅ "
+										: "❌ ")}
 								{index + 1}. {question}
 							</span>
 							<br />

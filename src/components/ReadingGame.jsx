@@ -17,13 +17,21 @@ const ReadingGame = (props) => {
 		}));
 	};
 
+	const [selectedSnapshot, setSelectedSnapshot] = useState({});
+
 	const onSubmit = () => {
+		let allCorrect = true;
 		for (let i = 0; i < matchInfo.questions.length; i++) {
 			if (matchInfo.questions[i].answer !== selectedOptions[i]) {
-				return;
+				allCorrect = false;
 			}
 		}
-		setShowNextStageButton(true);
+
+		setSelectedSnapshot(selectedOptions);
+
+		if (allCorrect) {
+			setShowNextStageButton(true);
+		}
 	};
 
 	return (
@@ -41,6 +49,10 @@ const ReadingGame = (props) => {
 					return (
 						<div key={index}>
 							<span>
+								{Object.keys(selectedSnapshot).length > 0 &&
+									(selectedSnapshot[index] === questionSet.answer
+										? "✅ "
+										: "❌ ")}
 								{index + 1}. {questionSet.question}
 							</span>
 							<br />
