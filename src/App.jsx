@@ -16,7 +16,7 @@ import ReadingGame from "./components/ReadingGame";
 
 const App = () => {
 	// Change this to the right lesson per week
-	const [lesson, setLesson] = useState(5);
+	const [lesson, setLesson] = useState(0);
 	const [expanded, setExpanded] = useState(false);
 
 	/*
@@ -24,7 +24,7 @@ const App = () => {
   2. Part 2 game
   3. Part 3 game
   */
-	const [stage, setStage] = useState(2);
+	const [stage, setStage] = useState(1);
 
 	useEffect(() => {
 		document.title = "Word Sandwich";
