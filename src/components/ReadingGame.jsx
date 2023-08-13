@@ -38,7 +38,7 @@ const ReadingGame = (props) => {
 		<>
 			<div className="text-center blue font-bold">
 				<br />
-				<h6>Reading comprehension</h6>
+				<h6>Reading Comprehension</h6>
 			</div>
 			<div className="reading">
 				<span>{matchInfo.reading}</span>

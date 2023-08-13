@@ -112,7 +112,7 @@
 		"words": ["luck", "lucky", "luckily", "luckless", "unlucky", "unluckily"],
 		"questions": [
 			"You are in _____. There is only one chocolate cake left at the café.",
-			"_____, no one got hurt in the bus accident.",
+			"According to the news, _____, no one got hurt in the bus accident.",
 			"Nick didn’t get a promotion after he finished the project, _____.",
 			"Brad was _____ because he won a lottery last month."
 		],
@@ -131,7 +131,7 @@
 			"The basketball players were very _____ after they won the game.",
 			"The students were jumping up and down with _____ after the final exam was over.",
 			"My father talked _____ about how he fixed my computer.",
-			"The working holiday programs in Japan really _____ me."
+			"Please do not _____ the children too much before they take naps."
 		],
 		"answer": ["excited", "excitement", "excitedly", "excite"]
 	},
@@ -143,7 +143,6 @@
 			"inactive",
 			"inactively",
 			"actor",
-			"actress",
 			"action"
 		],
 		"questions": [
@@ -159,10 +158,10 @@
 		"questions": [
 			"I have known George for a long time that his _____ is never in question.",
 			"To my surprise, Luke was _____ about his age and college degree when he applied for this job.",
-			"_____, Vicky wishes she had more time to prepare for the exam.",
+			"I _____ wish I had more time to study for the exam.",
 			"Linda is a nice woman who is trying to make an _____ living."
 		],
-		"answer": ["honesty", "dishonest", "Honestly", "honest"]
+		"answer": ["honesty", "dishonest", "honestly", "honest"]
 	},
 	{
 		"words": ["politic", "political", "politically", "politics", "politician"],
