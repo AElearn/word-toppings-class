@@ -151,7 +151,7 @@
 			"Tom Cruise is the most popular all-time _____ in America.",
 			"Mr. Jones still has an _____ role in running the family business because he attends the meetings every week."
 		],
-		"answer": ["action", "inactive", "actors", "active"]
+		"answer": ["action", "inactive", "actor", "active"]
 	},
 	{
 		"words": ["honest", "honestly", "honesty", "dishonest", "dishonestly"],
