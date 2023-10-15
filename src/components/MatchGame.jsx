@@ -89,11 +89,11 @@ const MatchGame = (props) => {
 						Submit
 					</Button>
 				)}
-				{showNextStageButton && (
+				{/* {showNextStageButton && (
 					<Button variant="success" onClick={() => setStage(3)}>
 						NEXT STAGE
 					</Button>
-				)}
+				)} */}
 			</div>
 		</>
 	);
