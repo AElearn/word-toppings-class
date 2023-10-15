@@ -41,7 +41,7 @@ const App = () => {
 						onClick={() => setExpanded(!expanded)}
 						aria-controls="basic-navbar-nav"
 					/>
-					<Navbar.Collapse id="basic-navbar-nav">
+					{/* <Navbar.Collapse id="basic-navbar-nav">
 						<Nav className="me-auto">
 							{wordsData.roots.map((element, index) => {
 								return (
@@ -61,9 +61,9 @@ const App = () => {
 									</NavDropdown.Item>
 								);
 							})}
-							{/* .filter((element, index) => index === lesson)} */}
+							// .filter((element, index) => index === lesson)} 
 						</Nav>
-					</Navbar.Collapse>
+					</Navbar.Collapse> */}
 				</Container>
 			</Navbar>
 			{stage == 0 && <RootGame lesson={lesson} setStage={setStage} />}
