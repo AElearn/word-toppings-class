@@ -16,7 +16,7 @@ import ReadingGame from "./components/ReadingGame";
 
 const App = () => {
 	// Change this to the right lesson per week
-	const [lesson, setLesson] = useState(1);
+	const [lesson, setLesson] = useState(2);
 	const [expanded, setExpanded] = useState(false);
 
 	/*
